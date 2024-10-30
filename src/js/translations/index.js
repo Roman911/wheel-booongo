@@ -160,11 +160,11 @@ export default {
         "modalFinalInfo": "Please, register to receive gift",
         "modalStageBtn": "Get more gifts",
         "modalFinalBtn": "Sign Up",
-        "sector1": "BONUS \n 200% + 125 FS",
+        "sector1": "BONUS \n 450% + 375 FS",
         "sector2": "BONUS \n 500% + 500 FS",
         "sector3": "BONUS \n 70 FS  ",
         "sector4": "BONUS \n 500 FS ",
-        "sector5": "BONUS \n 450% + 375 FS",
+        "sector5": "BONUS \n 200% + 125 FS",
         "sector6": "BONUS \n 125%  ",
         "sector7": "25 free spins",
         "sector8": "15 free spins"
