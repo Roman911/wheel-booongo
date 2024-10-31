@@ -146,9 +146,14 @@
     --transform: rotate(var(--r)) translate(var(--radius)) rotate(0);
     transform: var(--transform);
     transition: transform 1.5s ease-in-out;
+
+    img {
+        width: 100%;
+    }
 }
 
 .wheel__text {
+    display: none;
     font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
